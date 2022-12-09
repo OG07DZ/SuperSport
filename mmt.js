@@ -1,5 +1,5 @@
 /*
-~> Name      : Table Timer
+~> Name      : Table Score
 ~> Designer  : OG07DZ
 ~> Developers: https://www.og07dz.com
 ~> Version	 : 1
